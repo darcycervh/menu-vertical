@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Concert One', 'sans-serif';
+    margin-left: 16px;
+}
+li{
+    /*outline: 1px solid green;*/
+    font-family: 'Libre Franklin', 'sans-serif';
+    list-style: none;
+    width: 210px;    
+    background: #f5f5f0;
+    height: 40px;
+    
+}
+
+a{
+    padding-left: 8px;
+    color: #000;
+    padding-top: 10px;
+    padding-bottom: 11px;
+    display: block;
+}
+a:hover{
+    background: #e0e0d1;
+}
+a:active{
+    background: #333;
+    color: #fff;
+}
+li:first-child{
+    background: #f9a91a;
+}
+li:first-child a{
+    color:#fff;
+}
+ul li:first-child a:hover{
+    color: #000;
+}
+ul li:first-child a:active{
+    color: #fff;
+}
