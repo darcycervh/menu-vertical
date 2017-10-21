@@ -18,6 +18,7 @@ a{
     padding-top: 10px;
     padding-bottom: 11px;
     display: block;
+    text-decoration: none;
 }
 a:hover{
     background: #e0e0d1;
